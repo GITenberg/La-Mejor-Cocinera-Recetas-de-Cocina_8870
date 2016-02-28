@@ -1,0 +1,21 @@
+_repo: La-Mejor-Cocinera-Recetas-de-Cocina_8870
+creator:
+  author:
+    agent_name: Calleja (pseudonym)
+    gutenberg_agent_id: '2908'
+    url: http://www.gutenberg.org/2009/agents/2908
+description: ''
+gutenberg_bookshelf: Cookery
+gutenberg_issued: '2005-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8870'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TX'
+- !lcsh 'Cooking'
+title: La Mejor Cocinera, Recetas de Cocina
+url: http://www.gutenberg.org/ebooks/8870
