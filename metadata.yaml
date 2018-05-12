@@ -1,10 +1,16 @@
 _repo: La-Mejor-Cocinera-Recetas-de-Cocina_8870
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Calleja (pseudonym)
     gutenberg_agent_id: '2908'
     url: http://www.gutenberg.org/2009/agents/2908
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8870#La-Mejor-Cocinera-Recetas-de-Cocina
 gutenberg_bookshelf: Cookery
 gutenberg_issued: '2005-09-01'
 gutenberg_type: Text
